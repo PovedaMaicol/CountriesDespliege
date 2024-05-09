@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+  color: white;
+  margin: 0 auto;
+  align-items: center;
+text-align: center;
+}
+
+
+img {
+  width: 300px;
+}
+
+
+.container_principal {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+ 
+}
+
+.container_card {
+  margin: 0 auto;
+}
+
+.centro {
+
+}
+.datos {
+  list-style: none;
+}
+
+.datos li {
+  list-style: none;
+}
